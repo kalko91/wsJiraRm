@@ -1,1 +1,31 @@
-{}
+{
+  "userName":"Sergey Yakovlev",
+  "projects": {
+    "NextDocVisit": {
+      "rm": {
+        "name": "nextdocvisit-rockhopperz",
+        "syncTask": false,
+        "defaultTask": "17941"
+      },
+      "jira": {
+        "name": "NEX",
+        "syncTask": true
+      }
+    }
+  },
+
+  "worksnaps": {
+    "login": "***",
+    "password": "***"
+  },
+
+  "rm": {
+    "login": "",
+    "password": ""
+  },
+
+  "jira": {
+    "login": "",
+    "password": ""
+  }
+}
